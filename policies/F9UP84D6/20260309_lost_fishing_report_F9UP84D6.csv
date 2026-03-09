@@ -1,0 +1,29 @@
+Policy parameter,,
+policy_ID,F9UP84D6,
+cover_period_start,01/01/2024,
+cover_period_end,31/12/2026,
+latitude,14.0760145,
+longitude,120.6321413,
+high_wind_threshold,28.0,kph
+threshold_lost_fishing_hour,10,hour
+accepted_lost_fishing_days,0,days
+max_lost_fishing_days,15,days
+payment_per_lost_fishing_day,400,PHP
+,,
+Result,,
+actual_lost_fishing_hour,4,hour
+lost_fishing_day,No,
+cumulative_lost_fishing_days,0,days
+payment_required,No,
+payment_amount,0,PHP
+cumulative_payout,0,PHP
+,,
+Hourly windspeed data,,
+datetime,hourly_wind_speed,unit
+09/03/2026 17:00,28.40,kph
+09/03/2026 18:00,28.48,kph
+09/03/2026 19:00,28.76,kph
+09/03/2026 20:00,29.84,kph
+09/03/2026 21:00,26.03,kph
+09/03/2026 22:00,26.03,kph
+09/03/2026 23:00,26.89,kph
