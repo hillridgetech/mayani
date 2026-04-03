@@ -16,7 +16,7 @@ lost_fishing_day,Yes,
 cumulative_lost_fishing_days,4,days
 payment_required,Yes,
 payment_amount,400,PHP
-cumulative_payout,1200,PHP
+cumulative_payout,1600,PHP
 ,,
 Hourly windspeed data,,
 datetime,hourly_wind_speed,unit

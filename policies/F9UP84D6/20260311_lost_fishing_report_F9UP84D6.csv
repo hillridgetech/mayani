@@ -6,7 +6,7 @@ latitude,14.0760145,
 longitude,120.6321413,
 high_wind_threshold,28.0,kph
 threshold_lost_fishing_hour,10,hour
-accepted_lost_fishing_days,0,days
+accepted_lost_fishing_days,2,days
 max_lost_fishing_days,15,days
 payment_per_lost_fishing_day,400,PHP
 ,,

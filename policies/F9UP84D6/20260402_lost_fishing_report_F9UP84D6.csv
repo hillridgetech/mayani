@@ -6,7 +6,7 @@ latitude,14.0760145,
 longitude,120.6321413,
 high_wind_threshold,28.0,kph
 threshold_lost_fishing_hour,10,hour
-accepted_lost_fishing_days,0,days
+accepted_lost_fishing_days,5,days
 max_lost_fishing_days,15,days
 payment_per_lost_fishing_day,400,PHP
 ,,
@@ -16,7 +16,7 @@ lost_fishing_day,No,
 cumulative_lost_fishing_days,5,days
 payment_required,No,
 payment_amount,0,PHP
-cumulative_payout,1600,PHP
+cumulative_payout,2000,PHP
 ,,
 Hourly windspeed data,,
 datetime,hourly_wind_speed,unit
@@ -40,7 +40,7 @@ datetime,hourly_wind_speed,unit
 02/04/2026 17:00,12.82,kph
 02/04/2026 18:00,17.50,kph
 02/04/2026 19:00,16.13,kph
-02/04/2026 20:00,15.30,kph
-02/04/2026 21:00,14.51,kph
-02/04/2026 22:00,16.38,kph
-02/04/2026 23:00,15.84,kph
+02/04/2026 20:00,15.62,kph
+02/04/2026 21:00,14.90,kph
+02/04/2026 22:00,16.78,kph
+02/04/2026 23:00,16.27,kph
