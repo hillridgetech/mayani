@@ -1,0 +1,46 @@
+Policy parameter,,
+policy_ID,F9UP84D6,
+cover_period_start,01/01/2024,
+cover_period_end,31/12/2026,
+latitude,14.0760145,
+longitude,120.6321413,
+high_wind_threshold,28.0,kph
+threshold_lost_fishing_hour,10,hour
+accepted_lost_fishing_days,5,days
+max_lost_fishing_days,15,days
+payment_per_lost_fishing_day,400,PHP
+,,
+Result,,
+actual_lost_fishing_hour,0,hour
+lost_fishing_day,No,
+cumulative_lost_fishing_days,5,days
+payment_required,No,
+payment_amount,0,PHP
+cumulative_payout,2000,PHP
+,,
+Hourly windspeed data,,
+datetime,hourly_wind_speed,unit
+04/04/2026 00:00,14.26,kph
+04/04/2026 01:00,11.41,kph
+04/04/2026 02:00,9.40,kph
+04/04/2026 03:00,7.99,kph
+04/04/2026 04:00,7.02,kph
+04/04/2026 05:00,6.66,kph
+04/04/2026 06:00,7.09,kph
+04/04/2026 07:00,6.80,kph
+04/04/2026 08:00,6.66,kph
+04/04/2026 09:00,4.64,kph
+04/04/2026 10:00,0.86,kph
+04/04/2026 11:00,4.72,kph
+04/04/2026 12:00,6.95,kph
+04/04/2026 13:00,9.50,kph
+04/04/2026 14:00,12.92,kph
+04/04/2026 15:00,14.90,kph
+04/04/2026 16:00,15.98,kph
+04/04/2026 17:00,13.68,kph
+04/04/2026 18:00,9.22,kph
+04/04/2026 19:00,7.16,kph
+04/04/2026 20:00,6.73,kph
+04/04/2026 21:00,5.00,kph
+04/04/2026 22:00,4.21,kph
+04/04/2026 23:00,3.35,kph
