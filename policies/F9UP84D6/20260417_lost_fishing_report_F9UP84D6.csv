@@ -7,7 +7,7 @@ longitude,120.6321,
 high_wind_threshold,27.5,kph
 threshold_lost_fishing_hour,12,hour
 accepted_lost_fishing_days,0,days
-max_lost_fishing_days,15,days
+max_lost_fishing_days,25,days
 payment_per_lost_fishing_day,450,PHP
 ,,
 Result,,
