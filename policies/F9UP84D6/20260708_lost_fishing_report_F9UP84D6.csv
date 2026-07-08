@@ -1,0 +1,46 @@
+Policy parameter,,
+policy_ID,F9UP84D6,
+cover_period_start,01/07/2026,
+cover_period_end,30/06/2027,
+latitude,14.0760,
+longitude,120.6321,
+high_wind_threshold,27.5,kph
+threshold_lost_fishing_hour,12,hour
+accepted_lost_fishing_days,15,days
+max_lost_fishing_days,25,days
+payment_per_lost_fishing_day,450,PHP
+,,
+Result,,
+actual_lost_fishing_hour,0,hour
+lost_fishing_day,No,
+cumulative_lost_fishing_days,0,days
+payment_required,No,
+payment_amount,0,PHP
+cumulative_payout,0,PHP
+,,
+Hourly windspeed data,,
+datetime,hourly_wind_speed,unit
+08/07/2026 00:00,13.57,kph
+08/07/2026 01:00,13.21,kph
+08/07/2026 02:00,11.59,kph
+08/07/2026 03:00,10.33,kph
+08/07/2026 04:00,9.94,kph
+08/07/2026 05:00,11.38,kph
+08/07/2026 06:00,10.76,kph
+08/07/2026 07:00,11.56,kph
+08/07/2026 08:00,14.40,kph
+08/07/2026 09:00,17.10,kph
+08/07/2026 10:00,19.12,kph
+08/07/2026 11:00,21.71,kph
+08/07/2026 12:00,22.72,kph
+08/07/2026 13:00,22.75,kph
+08/07/2026 14:00,24.48,kph
+08/07/2026 15:00,25.78,kph
+08/07/2026 16:00,25.49,kph
+08/07/2026 17:00,24.34,kph
+08/07/2026 18:00,22.03,kph
+08/07/2026 19:00,20.48,kph
+08/07/2026 20:00,20.34,kph
+08/07/2026 21:00,17.86,kph
+08/07/2026 22:00,19.26,kph
+08/07/2026 23:00,19.40,kph
